@@ -1,0 +1,43 @@
+{
+  "registrationData": [
+    { "month": "Jan", "users": 35 },
+    { "month": "Feb", "users": 48 },
+    { "month": "Mar", "users": 42 },
+    { "month": "Apr", "users": 65 },
+    { "month": "May", "users": 58 },
+    { "month": "Jun", "users": 75 },
+    { "month": "Jul", "users": 82 },
+    { "month": "Aug", "users": 70 },
+    { "month": "Sep", "users": 95 },
+    { "month": "Oct", "users": 110 },
+    { "month": "Nov", "users": 105 },
+    { "month": "Dec", "users": 130 }
+  ],
+  "departmentData": [
+    { "department": "Engineering", "employees": 34 },
+    { "department": "Marketing", "employees": 34 },
+    { "department": "Finance", "employees": 33 },
+    { "department": "HR", "employees": 33 },
+    { "department": "Sales", "employees": 33 },
+    { "department": "Operations", "employees": 33 }
+  ],
+  "userStatusData": [
+    { "name": "Active", "value": 67 },
+    { "name": "Inactive", "value": 67 },
+    { "name": "Pending", "value": 66 }
+  ],
+  "revenueData": [
+    { "month": "Jan", "revenue": 12000 },
+    { "month": "Feb", "revenue": 15000 },
+    { "month": "Mar", "revenue": 18000 },
+    { "month": "Apr", "revenue": 16000 },
+    { "month": "May", "revenue": 22000 },
+    { "month": "Jun", "revenue": 25000 },
+    { "month": "Jul", "revenue": 28000 },
+    { "month": "Aug", "revenue": 26000 },
+    { "month": "Sep", "revenue": 32000 },
+    { "month": "Oct", "revenue": 35000 },
+    { "month": "Nov", "revenue": 38000 },
+    { "month": "Dec", "revenue": 45000 }
+  ]
+}
